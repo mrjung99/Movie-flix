@@ -8,6 +8,8 @@ A modern React-based Single Page Application for browsing movies and viewing det
 
 ![Screenshot](./public/movie%20info.png)
 
+Live link: https://movieflix112.netlify.app/
+
 ## 🚀 Features
 
 - **Movie Catalog**: Browse and search through extensive movie database
