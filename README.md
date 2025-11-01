@@ -27,3 +27,5 @@ A modern React-based Single Page Application for browsing movies and viewing det
 ## .ENV setup
 
 VITE_API_KEY = YOUR OMDb API KEY
+
+link: https://www.omdbapi.com/
