@@ -3,7 +3,9 @@
 A modern React-based Single Page Application for browsing movies and viewing detailed information. Built with React Router for seamless navigation and Tailwind CSS for responsive design.
 
 ![Screenshot](./public/moveflix.png)
+
 ![Screenshot](./public/movie%20page.png)
+
 ![Screenshot](./public/movie%20info.png)
 
 ## 🚀 Features
