@@ -8,6 +8,7 @@ import Contact from "./pages/Contact";
 import { getMoviesData } from "./api/GetmoviesData";
 import getMovieDetails from "./api/GetMovieDetails";
 import DisplayMovieData from "./ui/DisplayMovieData";
+import getContactData from "./api/GetcontactData";
 
 const App = () => {
   const router = createBrowserRouter([
@@ -40,6 +41,7 @@ const App = () => {
         {
           path: "/contact",
           element: <Contact />,
+          action: getContactData,
         },
       ],
     },
